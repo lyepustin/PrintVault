@@ -1,2 +1,3 @@
 # PrintVault
-My easy access to 3D printing models
+
+This things was created by Denys L & Company
